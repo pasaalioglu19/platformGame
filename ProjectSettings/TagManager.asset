@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Left End
+  - Right End
+  - Monster
+  - Monster Speed Up
+  - Restart
+  - Logic
+  - Arm
+  - Body Char
+  - Fight Scene
+  - Big Monster
+  - Sword
+  - SwordObj
+  - TargetLoc0
+  - TargetLoc1
+  - TargetLoc2
+  - TargetLoc3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Head
+    uniqueID: 1791265923
+    locked: 0
+  - name: Body
+    uniqueID: 3727164915
+    locked: 0
+  - name: Arm
+    uniqueID: 3525285727
+    locked: 0
+  - name: Leg
+    uniqueID: 3515369593
+    locked: 0
